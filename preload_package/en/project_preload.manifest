@@ -1,0 +1,1341 @@
+{
+    "packageUrl": "",
+    "host": "https://assets-defrag-gl.gree.net/assets/en/preload_package/",
+    "manifestPath": "4f5ab2ef33f630e93a8adf3f0631f035/",
+    "remoteVersionUrl": "version.manifest",
+    "remoteManifestUrl": "",
+    "version": "2.6.228",
+    "engineVersion": "Cocos2d-x v3.7",
+    "assets": {
+        "9_1004.zip": {
+            "category": 9,
+            "compressed": true,
+            "md5": "70ce2e977171833047d214764eb55fa6",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/131/./362daeeaee7d0113f8e35b63a37a5712.zip",
+            "size": 7998,
+            "subCategory": 1004
+        },
+        "ui/party/party_select_character_widget_s.csb": {
+            "category": 9,
+            "md5": "3ddda46f26b3d69eb95804fb9008d953",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/131/ui/party/521965f85bdf4c28ff840f862373abbb.csb",
+            "size": 7807,
+            "subCategory": 1004,
+            "downloadState": 2
+        },
+        "7_1001.zip": {
+            "category": 7,
+            "compressed": true,
+            "md5": "9b1080de34dcedca1935255e92bbb665",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./2058a61ee948d212bfca470c8fc12cbd.zip",
+            "size": 10352405,
+            "subCategory": 1001
+        },
+        "movie/sao_op.mp4": {
+            "category": 7,
+            "md5": "f67ac5a6732d4abad02f026a80829153",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/movie/e0050d555fd5d26063fc5ae505b304d2.mp4",
+            "size": 10672194,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "4_3002.zip": {
+            "category": 4,
+            "compressed": true,
+            "md5": "5c2217a113d52d51a03644b2f08034d8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./9619989e40494651d64abcef57974392.zip",
+            "size": 1924663,
+            "subCategory": 3002
+        },
+        "sound/sao5_07_mt_04.ogg": {
+            "category": 4,
+            "md5": "6b2b80e6b7ef5505586e7bf816d9fc40",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/sound/0ad2da1ab54624825b91d4dc3cf076fc.ogg",
+            "size": 1933298,
+            "subCategory": 3002,
+            "downloadState": 2
+        },
+        "3_4022.zip": {
+            "category": 3,
+            "compressed": true,
+            "md5": "789fdd0e8f5b19f678986496c4f3cda5",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/./c97fb66c213e2f1a7cc5bef60ad33345.zip",
+            "size": 71781,
+            "subCategory": 4022
+        },
+        "3_4023.zip": {
+            "category": 3,
+            "compressed": true,
+            "md5": "3ad9eac023162616d2f15f152d713056",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/./e32bd55c2000e5d264b8e87b391d7961.zip",
+            "size": 30178,
+            "subCategory": 4023
+        },
+        "ss/common/switch_button_change/switch_button_change.png": {
+            "category": 3,
+            "md5": "97dc256a52f5758b2968f9c7fd64fd4f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change/63c79a46810bbad253f83d18297a7d95.png",
+            "size": 11350,
+            "subCategory": 4023,
+            "downloadState": 2
+        },
+        "ss/common/switch_button_change_01/switch_button_change_01.ssbp": {
+            "category": 3,
+            "md5": "8872448f529f480ee6e15bceabef37d9",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change_01/ddc0a2497403b0603dfded5ea4aea302.ssbp",
+            "size": 480,
+            "subCategory": 4023,
+            "downloadState": 2
+        },
+        "ss/common/switch_button_change_01/switch_button_change_01_01.png": {
+            "category": 3,
+            "md5": "feeee1e8d993317cd62c7f48964ad5d3",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change_01/1aaa0ef6a20a8328f89b4bc198482d3e.png",
+            "size": 5403,
+            "subCategory": 4023,
+            "downloadState": 2
+        },
+        "ss/common/switch_button_change_01/switch_button_change_01_02.png": {
+            "category": 3,
+            "md5": "d9edae351394a50f9ec7a37b56502a78",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change_01/cfc782908b36816c4b96b971a073ac9f.png",
+            "size": 5642,
+            "subCategory": 4023,
+            "downloadState": 2
+        },
+        "ss/common/switch_button_change_02/switch_button_change_02.png": {
+            "category": 3,
+            "md5": "8138cc600745225f6d8789e718dff5c1",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change_02/d87abfb603fd9c7021f9b96b26eb25bd.png",
+            "size": 5459,
+            "subCategory": 4023,
+            "downloadState": 2
+        },
+        "ss/common/switch_button_change_02/switch_button_change_02.ssbp": {
+            "category": 3,
+            "md5": "c94562abdd04c3eeb961e2c0756c0952",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change_02/0f8b85c19c9b956566bfc5071f0576b2.ssbp",
+            "size": 600,
+            "subCategory": 4023,
+            "downloadState": 2
+        },
+        "ss/skill_cutin/appearance_cutin.png": {
+            "category": 3,
+            "md5": "f115a8a41858024e807e5c37a1e20c5d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/skill_cutin/1e329598d6b0474a710e19996cb64859.png",
+            "size": 66489,
+            "subCategory": 4022,
+            "downloadState": 2
+        },
+        "ss/skill_cutin/appearance_cutin.ssbp": {
+            "category": 3,
+            "md5": "99abf92d5ebdbb871270772cf10cce8b",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/skill_cutin/ea37c5b25cb07fb697166659bf6f36c0.ssbp",
+            "size": 4956,
+            "subCategory": 4022,
+            "downloadState": 2
+        },
+        "2_1001.zip": {
+            "category": 2,
+            "compressed": true,
+            "md5": "1e5d59fc49569e4aff45718069ad1759",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./6b34072feaafd8878dbf7bdddb0cf99b.zip",
+            "size": 7935,
+            "subCategory": 1001
+        },
+        "ui/name_input/name_input_s.csb": {
+            "category": 2,
+            "md5": "72aeea6b57cd9bf082961bcd519a1cd5",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/name_input/68103b454f5e459e19190eee21a64248.csb",
+            "size": 2223,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "ui/name_input/name_input_s.plist": {
+            "category": 2,
+            "md5": "b731739b670b87cd67cce65a54d41f4f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/name_input/c36a8283e0512c55c93f2df6200e2f64.plist",
+            "size": 400,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "ui/name_input/name_input_s.png": {
+            "category": 2,
+            "md5": "b81e0ea993355f8c54f137b47aa14bc8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/name_input/87a65880c4c308475b8fa70243502013.png",
+            "size": 4863,
+            "subCategory": 1001,
+            "downloadState": 2
+        },
+        "1_1003.zip": {
+            "category": 1,
+            "compressed": true,
+            "md5": "9783f0ac3aa1a62616775acd34094904",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/224/./1adc837d934751fedfbf760eaddfc5a8.zip",
+            "size": 22458,
+            "subCategory": 1003
+        },
+        "1_2001.zip": {
+            "category": 1,
+            "compressed": true,
+            "md5": "64c49da40a5cd4b9df8cdd0815ea22e9",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./e360fd79a5ba78968bed259f9f811fc2.zip",
+            "size": 5825231,
+            "subCategory": 2001
+        },
+        "1_4001.zip": {
+            "category": 1,
+            "compressed": true,
+            "md5": "d510dabc1b280ff8af3ce4ce090c2e09",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/128/./27e1976e5ac5f5117445320508760ba2.zip",
+            "size": 130714,
+            "subCategory": 4001
+        },
+        "data/preload_announcement_policy.bin": {
+            "category": 1,
+            "md5": "2dab2de4e8dcf11221e4dd6b5dea6bd8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/data/9b3f3a2b59f8e42fb9cf29ae3b41de9c.bin",
+            "size": 297,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_localization_error.bin": {
+            "category": 1,
+            "md5": "4677144f25b3702b35f8d9c039880a7f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/32/data/109deb41441014f97f912abf1222894d.bin",
+            "size": 3791,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_localization_info.bin": {
+            "category": 1,
+            "md5": "8559b7fb579a719a1e1b53c015d51f1f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/data/b47b39e289f22888ea361a4cffd52ff1.bin",
+            "size": 2225,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_se.bin": {
+            "category": 1,
+            "md5": "0f9980e949a6754a5507762b0aa2cd29",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/39/data/b369e72a2a0875aa7bb15c3790c5f04c.bin",
+            "size": 4162,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_special_pattern.bin": {
+            "category": 1,
+            "md5": "069e5809915b7f35b03e293d755e6b48",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/224/data/41b31ed8319fc471347b1744a9487234.bin",
+            "size": 3016,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_ui_file.bin": {
+            "category": 1,
+            "md5": "043dbd3080080fdf943affe3f7d5c992",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/215/data/0df1dcc66cf1588110ae0fa67fd8d2c9.bin",
+            "size": 1693,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "data/preload_ui_text.bin": {
+            "category": 1,
+            "md5": "4109447daf484e75c12f29d4b15a17c4",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/216/data/fdd1c00140b87efbf40deca07e7a47a5.bin",
+            "size": 6277,
+            "subCategory": 1003,
+            "downloadState": 2
+        },
+        "fonts/DFGOTHICKR2-W5.ttf": {
+            "category": 1,
+            "md5": "e46f1729f7c83e4117d79baa14d3abf6",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/fonts/74a18ea39632fd418d39f03142cdec33.ttf",
+            "size": 4161004,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/DFP-KaKouGothic-W5.ttf": {
+            "category": 1,
+            "md5": "5735486dd8ce7575f48509113116c500",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/fonts/02efca0e8c9907a76f8b25d5e483ce5a.ttf",
+            "size": 1312021,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/DFT_B3.ttf": {
+            "category": 1,
+            "md5": "9c3d88b607f4b4520e996833462fb7ab",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/fonts/1cd763d1a3fd17bf36bf97bb85c461a1.ttf",
+            "size": 2825618,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/SAOFont-Regular_v1.ttf": {
+            "category": 1,
+            "md5": "5ae1898984e2d39015635e6b83798c45",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/fonts/1bb770060a4afb5ee8c7f303aa637a4f.ttf",
+            "size": 5802,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/progress_bar_number.fnt": {
+            "category": 1,
+            "md5": "1e4399a9e2555e842976d09c50ad9464",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/fonts/25d017b1cfb01fa1e9b410d7b4d8df85.fnt",
+            "size": 469,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "fonts/progress_bar_number.png": {
+            "category": 1,
+            "md5": "132a2a4b6929bc8a383e40f9fef8fbc8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/fonts/d65d4d4ede014030f2f8b0e999709137.png",
+            "size": 2979,
+            "subCategory": 2001,
+            "downloadState": 2
+        },
+        "ui/common/common_language_setting_s.csb": {
+            "category": 1,
+            "md5": "b6cad395ee13f429609640dc13a5245e",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/58eb78c0f59748544bdf02bf7f476281.csb",
+            "size": 1950,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_list_small_s.csb": {
+            "category": 1,
+            "md5": "29e94afd37c2ea63886b9e27c2c06ecb",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/f45f775789c0a8d09b8af8c4588c8899.csb",
+            "size": 1474,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_list_small_s.plist": {
+            "category": 1,
+            "md5": "465137c537b2c470960354fb8055b3e7",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/128/ui/common/3005be241f7d8751ca015bcb7a89e2b2.plist",
+            "size": 746,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_list_small_s.png": {
+            "category": 1,
+            "md5": "3827137a2f81d38a81fd09d2d9c3cedf",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/128/ui/common/d2e56425fed6cbcecda9bd2152f0fd0b.png",
+            "size": 58250,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_maintenance_s.csb": {
+            "category": 1,
+            "md5": "543a74d597a1844bef24217f6b457721",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/4d932b5ff83cabbaa41ed1862cca3886.csb",
+            "size": 2158,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_pager_s.csb": {
+            "category": 1,
+            "md5": "fd40115c0f9a847d8393a2367dfff279",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/151034446e33811bd93ca5ced3d465f8.csb",
+            "size": 1278,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_message_s.csb": {
+            "category": 1,
+            "md5": "d1d42f322f0ea0368725e99b2f0aae09",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/1f3f661c33cfa86c14892432b7914b46.csb",
+            "size": 1375,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_s.csb": {
+            "category": 1,
+            "md5": "ace01c5d818eed12d2469456997cb21e",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/78d69e360c4cf4bc2e27492f3011f422.csb",
+            "size": 1508,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_s.plist": {
+            "category": 1,
+            "md5": "f22296e3cf4a201a29111c4774539f8f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/8b3a3a2c4554ecfa30f37ee5f0a90f92.plist",
+            "size": 1248,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_s.png": {
+            "category": 1,
+            "md5": "a53314d035f1834a62eea958d6965ae2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/02d5a5ebef9ac3192e059b477bc3a22d.png",
+            "size": 56619,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_popup_webview.csb": {
+            "category": 1,
+            "md5": "a01385d1512886fdd08adb13b1a45538",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/94bef1bb557905e8b21ea8dc850f6cae.csb",
+            "size": 1152,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "ui/common/common_select_box.csb": {
+            "category": 1,
+            "md5": "b3ed3c9d691f5a45f5643db6af52c4a9",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/common/40bcb4bb5d665228af3994c3673f2dc2.csb",
+            "size": 1174,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "0_0.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "8fbba1129316d8421d7f0230eac9ee48",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./6322380e108b106b19520bdfd2da2c44.zip",
+            "size": 983600,
+            "subCategory": 0
+        },
+        "0_1006.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "908434e019697a1f621c7e3a780868c2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/224/./a26c31b37bcd8105d89277dfd660f1cc.zip",
+            "size": 12829958,
+            "subCategory": 1006
+        },
+        "0_2202.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "da13c7674b0f0cdf69223ad1b8dfaf41",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/39/./aaa48c495f74f2b613e72b16eca4965b.zip",
+            "size": 5483043,
+            "subCategory": 2202
+        },
+        "0_2304.zip": {
+            "category": 0,
+            "compressed": true,
+            "lazyLoad": true,
+            "md5": "6f6d39d3f3f182cbeb7703234ce54cdb",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./e2bbb688af8d15bf71ee662d9d0c4649.zip",
+            "size": 1924669,
+            "subCategory": 2304
+        },
+        "0_3315.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "01aacb41d28d967f7508180dd43fa967",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/./dc0d1ca015d811e0e2b84ab78ba5a603.zip",
+            "size": 31005,
+            "subCategory": 3315
+        },
+        "0_3316.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "aa0875f812650470bc88d1aa14069347",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./f9de7a712ec7c7bba68a31ec195196eb.zip",
+            "size": 286992,
+            "subCategory": 3316
+        },
+        "0_4001.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "c015340e0fcad2fe714781a5efb9c003",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./59cd242a18e0d2b7ce1c3e70a224775c.zip",
+            "size": 39355,
+            "subCategory": 4001
+        },
+        "0_4002.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "a62fa0828628f4b85765177a8062203d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./6b968d8402d572c02ee6042450ff2e07.zip",
+            "size": 13142,
+            "subCategory": 4002
+        },
+        "0_95001.zip": {
+            "category": 0,
+            "compressed": true,
+            "md5": "1d73ac25c625ce51cd1b6aea2f29bae8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/./68e3725b185dfd103782ebac2172d04c.zip",
+            "size": 672121,
+            "subCategory": 95001
+        },
+        "images/bne/bne_logo_l.png": {
+            "category": 0,
+            "md5": "58e2e67d6ebcd86291115d2140224fd3",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/images/bne/674554c6975ce2e5edb9bd8d094abc99.png",
+            "size": 9882,
+            "subCategory": 4002,
+            "downloadState": 2
+        },
+        "images/bne/bne_logo_s.png": {
+            "category": 0,
+            "md5": "f929dcb7fa08af841c5936402734e6de",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/images/bne/de0362237c095ce2210d85014a6ab49f.png",
+            "size": 2976,
+            "subCategory": 4002,
+            "downloadState": 2
+        },
+        "images/title/image_copyright.png": {
+            "category": 0,
+            "md5": "67e36dd5e4bb23e691f8cdcd70d1b0c6",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/images/title/ecae01e101185d0463b6fdb0b39ad40b.png",
+            "size": 14389,
+            "subCategory": 95001,
+            "downloadState": 2
+        },
+        "images/title/title.png": {
+            "category": 0,
+            "md5": "8beb6a3d67d8d5a03f5455b5d873bbb2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/images/title/d6e830ac7212e17fdd23f12f1dfad800.png",
+            "size": 657417,
+            "subCategory": 95001,
+            "downloadState": 2
+        },
+        "images/wfs/wfs_logo_l.png": {
+            "category": 0,
+            "md5": "26cde61b1caee99eeea34dba7f37c95a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/images/wfs/e276bea4f425a39563180ac85e792f5b.png",
+            "size": 39197,
+            "subCategory": 4001,
+            "downloadState": 2
+        },
+        "movie/sao_link_start.mp4": {
+            "category": 0,
+            "md5": "684c967cc71149e088a0a2e23aae6813",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/movie/5fb74719caaef76772531e8a7c9f985e.mp4",
+            "size": 985672,
+            "subCategory": 0,
+            "downloadState": 2
+        },
+        "sound/sao5_36_title_01.ogg": {
+            "category": 0,
+            "lazyLoad": true,
+            "md5": "6b2b80e6b7ef5505586e7bf816d9fc40",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/sound/817fb86f911b4b8d0e2f0415e935eae6.ogg",
+            "size": 1933298,
+            "subCategory": 2304,
+            "downloadState": 2
+        },
+        "sound/se_preload.ckb": {
+            "category": 0,
+            "md5": "1a5b2b39dce41453f757d38ea988bc77",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/sound/5b40147bdea9496cc0800dd7ca4fb1be.ckb",
+            "size": 938520,
+            "subCategory": 2202,
+            "downloadState": 2
+        },
+        "sound/se_titlecall.ckb": {
+            "category": 0,
+            "md5": "ba592755fc6b53bfc38c585fa9c71c32",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/39/sound/afd14fc68fc7bfaae13af09b8e0a0ffb.ckb",
+            "size": 6726768,
+            "subCategory": 2202,
+            "downloadState": 2
+        },
+        "ss/common/switch_button_change/switch_button_change.ssbp": {
+            "category": 0,
+            "md5": "973cf10bdd34639849f1d98506b76d81",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/119/ss/common/switch_button_change/5766232c2671fee45bb0d018bed7d1d9.ssbp",
+            "size": 1519,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/chara_51_yui.png": {
+            "category": 0,
+            "md5": "5a72b2b34b1f481f912a693d8bb71f08",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/connecting_yui/b7cd86f3c838c4b744bed4fd5479aeb5.png",
+            "size": 77257,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/chara_51_yui_effect_s.png": {
+            "category": 0,
+            "md5": "ac351f1ec0805058092250ba5e3ca547",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/connecting_yui/d51beb1a47d1e0754af3e58cdb95cde6.png",
+            "size": 3531,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/connecting_yui.ssbp": {
+            "category": 0,
+            "md5": "556957797bc6db3c633b7c18a1796df2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/connecting_yui/406bd7961f099be74de5848476d47aca.ssbp",
+            "size": 44434,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/cycle.png": {
+            "category": 0,
+            "md5": "fda7f7ae62392abf237dcffcd7b253a8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/connecting_yui/a73f02d56406dde330f1b7679bbd872a.png",
+            "size": 2483,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/connecting_yui/now_loading.png": {
+            "category": 0,
+            "md5": "54e510bab8310b5c401244a187db33e0",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/connecting_yui/9339c3cef93900e304b7772c238a9b1a.png",
+            "size": 10341,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/chara_51_yui.png": {
+            "category": 0,
+            "md5": "5a72b2b34b1f481f912a693d8bb71f08",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/loading_yui/2d7d8cf7d84af8d644f3916dec3775eb.png",
+            "size": 77257,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/chara_51_yui_effect_s.png": {
+            "category": 0,
+            "md5": "ac351f1ec0805058092250ba5e3ca547",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/loading_yui/103e5e928e6ebbc656a01b01083e9923.png",
+            "size": 3531,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/cycle.png": {
+            "category": 0,
+            "md5": "fda7f7ae62392abf237dcffcd7b253a8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/loading_yui/5771852debc5aaa4cfa49d411c26f4b1.png",
+            "size": 2483,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/loading_yui.ssbp": {
+            "category": 0,
+            "md5": "3cd61211916797a402445c0453163732",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/loading_yui/b2b40b715ba7b358cdde6f7405ffc590.ssbp",
+            "size": 44958,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/now_connecting.png": {
+            "category": 0,
+            "md5": "54e510bab8310b5c401244a187db33e0",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/loading_yui/18f4b2d49c8a182c450e6a2a07229582.png",
+            "size": 10341,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/others/common/loading_yui/now_loading.png": {
+            "category": 0,
+            "md5": "abc975f38fd481f21a6f09129369636f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/others/common/loading_yui/5ba5cb161c40a246573d23309813c125.png",
+            "size": 8467,
+            "subCategory": 3316,
+            "downloadState": 2
+        },
+        "ss/ui/controller_tap/controller_tap.png": {
+            "category": 0,
+            "md5": "c5cfeaf9d50141049925b1384dcfcb23",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/ui/controller_tap/72f60cd5ae368965343d3eb0e7f6ddc5.png",
+            "size": 9638,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ss/ui/controller_tap/controller_tap.ssbp": {
+            "category": 0,
+            "md5": "6646faef4dcd5743bea67510d6c51f90",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/ui/controller_tap/3a8c3f443f39d30a1f52343383e08ed8.ssbp",
+            "size": 3053,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ss/ui/controller_tap/controller_tap_s.png": {
+            "category": 0,
+            "md5": "5e42c44382bf4485f2370648551512ba",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ss/ui/controller_tap/10a799b779780e0fc06f41072a6b658f.png",
+            "size": 16097,
+            "subCategory": 3315,
+            "downloadState": 2
+        },
+        "ui/confirm_popup/confirm_popup.csb": {
+            "category": 0,
+            "md5": "34ed989e5151026bda3814026b5cdfcd",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/confirm_popup/cce36907003348f83d5b550fc97d9255.csb",
+            "size": 1545,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/confirm_popup/confirm_popup.plist": {
+            "category": 0,
+            "md5": "e06046f4c3175c61f05db47ac3ce25aa",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/confirm_popup/6e715ad1fc5840de6ad4c787b7b169c6.plist",
+            "size": 508,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/confirm_popup/confirm_popup.png": {
+            "category": 0,
+            "md5": "fa9143f79d97dbce0da2b71840a6f040",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/confirm_popup/fdbe5ee6547194f9f8473a264b593ee0.png",
+            "size": 14606,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_bar_s.csb": {
+            "category": 0,
+            "md5": "2e02b4f5abc08e3a2ff232685148e460",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/download/b47823f8108709cdde883850b6f5fada.csb",
+            "size": 1274,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_s.csb": {
+            "category": 0,
+            "md5": "cb5d2937af62253c99d6cba3a0dbbcdb",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/download/0747a41a8621bef8f46e6b92de8d9602.csb",
+            "size": 1736,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_s.plist": {
+            "category": 0,
+            "md5": "0feb3c7f0d238b45a5022010079bb9b8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/download/8c1fc702542040fbb24330f6049e09f4.plist",
+            "size": 583,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/download/download_s.png": {
+            "category": 0,
+            "md5": "d4b568b89df42c1e421239e41d34c01b",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/download/8c69ce01110125bb370502ccee448816.png",
+            "size": 22185,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_announce_confirm_s.csb": {
+            "category": 0,
+            "md5": "0876ffe9b485005f94122382615c0743",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/bdffa01ae5a0eaa689ac6d34ccb58c70.csb",
+            "size": 2144,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_att_confirm_s.csb": {
+            "category": 0,
+            "md5": "d031191d4fc204660a62fb5c5a707d99",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/215/ui/policy/86834af0df94f1cd9b9e2f326df74148.csb",
+            "size": 2631,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_att_confirm_s_global.csb": {
+            "category": 0,
+            "md5": "3526412f5b6c6d3ebfc14bf22609087a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/215/ui/policy/e299c363bcca997fa17c399146d108b9.csb",
+            "size": 2720,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_confirm_s.csb": {
+            "category": 0,
+            "md5": "0c752611db4ad45c17f3d440f8d217f3",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/394b2f72d888b442858c855c9e26a871.csb",
+            "size": 2540,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_confirm_s_global.csb": {
+            "category": 0,
+            "md5": "117a30d43b32320996c310a11694e2dd",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/bb565bac21d1104b53db40c5ec3f22f9.csb",
+            "size": 2461,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_f2p_confirm_s.csb": {
+            "category": 0,
+            "md5": "0f69338775142d0dbb1877a2827be3e2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/fa5040e4925919b314591fe2096db9bd.csb",
+            "size": 1887,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_f2p_confirm_s_global.csb": {
+            "category": 0,
+            "md5": "8df5cfb227d0761dedc1c5d6ff21e6b4",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/2927dacd98f8555dd91e164fadaf22a9.csb",
+            "size": 1510,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_gdpr_confirm.csb": {
+            "category": 0,
+            "md5": "362912a15a35eb1da3c59c9cccb6d1e0",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/89040ff06c1bce3b0529cb596afc1ad0.csb",
+            "size": 3374,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_list_s.csb": {
+            "category": 0,
+            "md5": "062fbab5ef34a165a3ef80c7facc9f98",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/6b5acc0e45c4502c385ac747b5f3d688.csb",
+            "size": 1592,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_s.plist": {
+            "category": 0,
+            "md5": "0d884a4f205d3f31f6614a4ebf468d03",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/215/ui/policy/eb73de064b607d6a4e95a727f618e93a.plist",
+            "size": 819,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_s.png": {
+            "category": 0,
+            "md5": "1a72d078e677653b55ad0260e7cf4734",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/215/ui/policy/2b13bc908e8c5f8c7fbdb382778f8dfa.png",
+            "size": 100687,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/policy/policy_update_confirm_s.csb": {
+            "category": 0,
+            "md5": "318480e400007c65fa5d948cda76b393",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/policy/7789763a1d5419d1248aeb5054c5d3b6.csb",
+            "size": 2375,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/apple_login_s.csb": {
+            "category": 0,
+            "md5": "bf23e45e733e9589662ff4b26314dd28",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/36/ui/support/dc0c1a8c4a7009866b675c9eba4f81db.csb",
+            "size": 2158,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/apple_unlink_s.csb": {
+            "category": 0,
+            "md5": "8f0084b472ac6d5eaa57a27fc7a403c9",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/32/ui/support/79cf316348ca079148772d082a7f8d7d.csb",
+            "size": 2211,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_complete_s.csb": {
+            "category": 0,
+            "md5": "b55f0a284975ff4369b66e79fbaa9a2b",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/13ed9ab21d638faa3042387f0b778c26.csb",
+            "size": 1660,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_confirm_s.csb": {
+            "category": 0,
+            "md5": "54db893764d6d01e2fdafa7f9946130d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/8b5aac555e7b0cb6de0da7cbe504219c.csb",
+            "size": 3517,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_detail_s.csb": {
+            "category": 0,
+            "md5": "7500e21f080168df26b4face0199df07",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/ef87640d1b75d5b20436c6253fc0f60b.csb",
+            "size": 1940,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_input_s.csb": {
+            "category": 0,
+            "md5": "74e4c9f7b22fa49ea57c55e06b32138a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/29acb37bc224946aebc9ef8bfc13ad0e.csb",
+            "size": 2719,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_password_s.csb": {
+            "category": 0,
+            "md5": "1fd91caa5659085c9597dc627c8e26a6",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/d975c37c5b61855164e99f2fd9e7107a.csb",
+            "size": 2267,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_select_apple_s.csb": {
+            "category": 0,
+            "md5": "fa0d7edf25c623550a62ab2b083371b7",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/36/ui/support/25f566536ded3e6604e3943ad6b93967.csb",
+            "size": 2135,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_inheriting_select_s.csb": {
+            "category": 0,
+            "md5": "6648a0697be7adea06670bf7c68d2c16",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/688096132540fb1e2c068fe19cd94cb6.csb",
+            "size": 1906,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/data_repair_s.csb": {
+            "category": 0,
+            "md5": "095fc0c48ad51726e213b93b47de0c9c",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/a1a15046bdd63584ad6e703e07d76e78.csb",
+            "size": 2085,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/facebook_login_s.csb": {
+            "category": 0,
+            "md5": "2374566bc848578a4a24452f8339d8bb",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/737087f84b9d0d1425a0fa1f3350c322.csb",
+            "size": 2223,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/facebook_unlink_s.csb": {
+            "category": 0,
+            "md5": "d66fa35a7485788287330e1389f853eb",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/c3e5e297c11590826ed87ebd19b35818.csb",
+            "size": 2238,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/support_s.plist": {
+            "category": 0,
+            "md5": "285e7f77bbb4b5ef820ac1800f6f125a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/36/ui/support/d15aa1fe6b948a56eeb8122543160d68.plist",
+            "size": 747,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/support_s.png": {
+            "category": 0,
+            "md5": "fbb70c9292e683c6bf2daefe0604469a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/36/ui/support/4263e822a65b240b66950823fe0a9748.png",
+            "size": 48297,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/support/support_select_s.csb": {
+            "category": 0,
+            "md5": "df52ffc24e51b79cb1e278c980930f3d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/support/99aabed060cc16ac7291d46fa2a0c3d2.csb",
+            "size": 2119,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/fire_particle.png": {
+            "category": 0,
+            "md5": "38f2fff40230898dbc7df9ea602a7b6d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/6e4d18eb911df298eb82a8ce31e05016.png",
+            "size": 7389,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_collad_01.png": {
+            "category": 0,
+            "md5": "0eb9ad34b65612ebc1b49d3f0980a926",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/32/ui/title/d8dd4d535121b063a511828a947a9c83.png",
+            "size": 262145,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_collad_02.png": {
+            "category": 0,
+            "md5": "b040169dad00cfb3e85581e51c3016d2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/35/ui/title/e76497070b15af7d38f5837ec9b1a510.png",
+            "size": 315542,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_ggo_1.png": {
+            "category": 0,
+            "md5": "9a8493182ebe3113efdd2117fe8ea198",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/28e79ad3b06d6c85a71c707b4fec59cb.png",
+            "size": 235746,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_girlsband_1.png": {
+            "category": 0,
+            "md5": "17bbf2de92ef32f350f270a9765708e5",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/4d5a2c213efd8f5ce9f130626ce2669c.png",
+            "size": 317160,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_girlsband_2.png": {
+            "category": 0,
+            "md5": "c5692ed15ee595dc7a6f5a62ba63292e",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/0aa75d3e746781a7728d73d9ab46f837.png",
+            "size": 342768,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_moredeban.png": {
+            "category": 0,
+            "md5": "7307d6a5a894399e23a625bd8b7009b3",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/e4b908f443823d11520aa8a13509d895.png",
+            "size": 95724,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_sao_1.png": {
+            "category": 0,
+            "md5": "8d11beaf0759e665f77e5f80b9fa14d3",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/3b766987268d7c1dff7fbb756ea21895.png",
+            "size": 375734,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_characters_sao_2.png": {
+            "category": 0,
+            "md5": "e797312b71344b9b58475db34c19334a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/412e36ee3eaf468061acfade855dad29.png",
+            "size": 244654,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_copyright.png": {
+            "category": 0,
+            "md5": "00505c4f97b9cf9de5cd57c7b7ae0bf4",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/aee108443931378827785e62c4550879.png",
+            "size": 32684,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_logotype.png": {
+            "category": 0,
+            "md5": "ced53d22201fca416260a153f3a71727",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/cd890b647539aa8e283426496b87d13e.png",
+            "size": 179197,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/image_logotype_noize.png": {
+            "category": 0,
+            "md5": "02005977ddd0997bab2e76eff2a6064e",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/ef673e0ea616e429246b8e85edeeeb54.png",
+            "size": 285165,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.csb": {
+            "category": 0,
+            "md5": "4320bf90ad501a98eeaf2da421106dee",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/1ff67a2296980c7ca37adbdaaf6f4fa3.csb",
+            "size": 1429,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.plist": {
+            "category": 0,
+            "md5": "567490d9271d7b3256fd16d5c917370d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/32/ui/title/5eb2adf70d9950ee9f4a9bc44c9da097.plist",
+            "size": 678,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.png": {
+            "category": 0,
+            "md5": "3e3e796d77e68658363dcfa1d72a00ef",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/6728eea0a969c24b04495a79ceb6f2ed.png",
+            "size": 52223,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title.ssbp": {
+            "category": 0,
+            "md5": "4f1ded149fda1f77202a608e5adb9e7f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/224/ui/title/e02d5115290ff0318facfaa6f9d9576d.ssbp",
+            "size": 752437,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_anime_01.png": {
+            "category": 0,
+            "md5": "f06fc61b05213a3b7365bbeff36426c4",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/ad0a8c05fd515fac2a7543ce3f31e398.png",
+            "size": 78866,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas.png": {
+            "category": 0,
+            "md5": "d0138ecdc695e2ba1b12db0dbab56481",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/df9c6a48cae283c84172a0cba275051a.png",
+            "size": 20480,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_10.png": {
+            "category": 0,
+            "md5": "559ff6674f855a8bbfb4b9774b563b6a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/124/ui/title/5fc668c59ef1f95d3d11c4dcbf28794a.png",
+            "size": 96427,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_11.png": {
+            "category": 0,
+            "md5": "8512df1ea869d2ad574994c2029a0dcd",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/224/ui/title/f19ac38aac745b9c3e4736b49da53d3f.png",
+            "size": 91392,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_2_ggo_1.png": {
+            "category": 0,
+            "md5": "422cd8e1f78e3aa8d34b88bcc904a5c5",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/19136c25cf7fa354f1060cbad8c7c1d2.png",
+            "size": 16820,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_2_girlsband_1.png": {
+            "category": 0,
+            "md5": "ac3425b5aa8e0ffe7db019137efb0bc2",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/56b633867a3ba7f10b4822b117e9eb46.png",
+            "size": 16249,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_2_sao_1.png": {
+            "category": 0,
+            "md5": "0ca1ff94eca25cd13936dc1b54af713a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/e93ef1571460a7b28be3bf7fb37f400f.png",
+            "size": 16963,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_2_uw_1.png": {
+            "category": 0,
+            "md5": "435331cd7706dc34d262211950dc623b",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/251c8baa099aa7ff09941818c3e71215.png",
+            "size": 11223,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_ggo_1.png": {
+            "category": 0,
+            "md5": "5641b0fcbd75cf552598d515777d35b5",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/bd47d66c95844c4cdb9d1a68e98fd2fb.png",
+            "size": 38959,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_girlsband_1.png": {
+            "category": 0,
+            "md5": "1c7718fd3c16f3aedfe3ffec922d3a22",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/ac3e1c8518416c59c1e3ae0e0a019b75.png",
+            "size": 39384,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_girlsband_2.png": {
+            "category": 0,
+            "md5": "1f3550619f06c1699946980bce39df98",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/d1445d17abd7e7c27d6316cba17b3b7d.png",
+            "size": 49406,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_sao_1.png": {
+            "category": 0,
+            "md5": "6cde5817892fe0fec6c995ccfcebf813",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/ab13fa83ecd42b861d29b6af8a188217.png",
+            "size": 49217,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_sao_2.png": {
+            "category": 0,
+            "md5": "f559aa8da385b9beacf156cf706d2cfe",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/aac5f7aecf56f23eee1119c7582b6ed1.png",
+            "size": 36842,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_uw_1.png": {
+            "category": 0,
+            "md5": "37b5e208a101f04af5949cdb2bc2b8e0",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/d4502c5c9cf65be803ce80842c9128be.png",
+            "size": 32428,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_3_uw_3.png": {
+            "category": 0,
+            "md5": "1eda7af877864aafbb94ae7517c9a12d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/5ba08ee3cc7383da536b497d82fd2a0b.png",
+            "size": 55867,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_4.png": {
+            "category": 0,
+            "md5": "d7a0a777fe0fa80b3601fcda4fb037fb",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/4cd1965c9d927cd63ff5f3a3377d8e63.png",
+            "size": 43517,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_6.png": {
+            "category": 0,
+            "md5": "1e57a45b5c1c4acebdede870426a65b8",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/ee10042e6e25371d564d91284e8825f6.png",
+            "size": 45117,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_7.png": {
+            "category": 0,
+            "md5": "806eda81ac55e91e73807f3b5f51900f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/88389cffd1ce22227dd02ac995fcad2d.png",
+            "size": 94881,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_8.png": {
+            "category": 0,
+            "md5": "327ae8a3c4b66141a837438b7687caab",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/d7361ee96fbbdc5d89d4da725067b406.png",
+            "size": 93253,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_atlas_9.png": {
+            "category": 0,
+            "md5": "34f91fb17fb292af74e8b503339d9dca",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/b6e665fd1e2b3734fe15d138a84eab9c.png",
+            "size": 84605,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_ggo_1.png": {
+            "category": 0,
+            "md5": "b41342c0465d44cd4d4618454b6f7039",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/1e50038f5b8874dd12a7bbb95836d081.png",
+            "size": 724851,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_girlsband_1.png": {
+            "category": 0,
+            "md5": "53437abb7c118ede9eab6b546b7689db",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/0184a4c8535af584ee6e2e307f37e10e.png",
+            "size": 453648,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_sao_1.jpg": {
+            "category": 0,
+            "md5": "f9620d202760e4edcc820a9606594a6a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/92586f1b37de9bcb2a64b11f8b99475f.jpg",
+            "size": 350212,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_1.png": {
+            "category": 0,
+            "md5": "034beb801cf7b1a147d63476c1946635",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/9bb8890b403c640fbc2ff9127e81bdfd.png",
+            "size": 654999,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_10.png": {
+            "category": 0,
+            "md5": "88721ff781edbe3a7639a65c2394b65a",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/124/ui/title/278c7d2877dfca85f6e139d55064d5aa.png",
+            "size": 540286,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_11.png": {
+            "category": 0,
+            "md5": "d4c7518c08618e06805796ea7052cf2e",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/224/ui/title/2da6ab4d59a664e3ba580edc05dd7bdb.png",
+            "size": 560393,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_3.png": {
+            "category": 0,
+            "md5": "97fbeb4cd5c21f857e2687fb1b9de9be",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/ace73d030f1937d0ffe7457cc9b039e8.png",
+            "size": 600081,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_4.png": {
+            "category": 0,
+            "md5": "1e54cebe8ebdbe9ed27f04c12a22752f",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/b064f38d95901e45a2d142aef49f2503.png",
+            "size": 489643,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_5.png": {
+            "category": 0,
+            "md5": "f372c137654720c46db47f6887ac25a9",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/68373b0a26182b1a3ea5a08c7911eeec.png",
+            "size": 485916,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_6.png": {
+            "category": 0,
+            "md5": "3909543e64087d87c7790038d807e147",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/15b42e6b2251505215f9d187f266cb19.png",
+            "size": 576469,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_7.png": {
+            "category": 0,
+            "md5": "89d2cd89f12ddd95297b3b01ab2b07bf",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/1406c264cd1887dc215c484828116c71.png",
+            "size": 593073,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_8.png": {
+            "category": 0,
+            "md5": "f51b21c01b73ab5ff106b83ae0c8274d",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/1/ui/title/262fb34b735fc16d1ca473879adfaf70.png",
+            "size": 520923,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_bg_uw_9.png": {
+            "category": 0,
+            "md5": "c325db2caad50feabe9dd2ace7bbcd95",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/32/ui/title/053af2febcc3ec0533bab09bbe982406.png",
+            "size": 121608,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_collab_01.png": {
+            "category": 0,
+            "md5": "be815ad8e4a116df25e5669b2dac6baf",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/32/ui/title/289ab196cb0c0f46cf4385a3f5a9a77c.png",
+            "size": 797144,
+            "subCategory": 1006,
+            "downloadState": 2
+        },
+        "ui/title/title_collab_03.png": {
+            "category": 0,
+            "md5": "c00233f22646fa64dc94973bd522da5e",
+            "path": "preload_package/4f5ab2ef33f630e93a8adf3f0631f035/35/ui/title/4e237a9c85b48544d9866bcc326ace2e.png",
+            "size": 681361,
+            "subCategory": 1006,
+            "downloadState": 2
+        }
+    }
+}
